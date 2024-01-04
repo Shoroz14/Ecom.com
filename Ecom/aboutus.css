@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=PT+Serif&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+body{
+    background-image: url("PIC/21\ Awesome\ Products\ From\ Amazon\ To\ Put\ On\ Your\ Wish\ List.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: rgba(0, 0, 0, 0.454);
+    height: 45px;
+}
+
+nav ul{
+    list-style-type: none;
+    float:right;
+    padding: 0px;
+    margin-top: 0px;
+}
+
+nav a{
+    text-align: center;
+    padding: 15px;
+    display: block;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+nav ul li{
+    display: inline-block;
+}
+
+img{
+    height: 400px;
+    width: 300px;
+    background-color: blanchedalmond;
+    float: right;
+    margin-right: 300px;
+    margin-top: 40px;
+}
+
+div{
+    background-color: blanchedalmond;
+    width: 400px;
+    height: 400px;
+    float: right;
+    margin-right: 200px;
+    margin-top: 100px;
+}
+
+h1{
+    float: right;
+    margin-right: 30px;
+    margin-top: -400px;
+    color: cadetblue;
+}
+
+h3{
+    color: rgb(84, 84, 84);
+    float: right;
+    margin-right: 30px;
+    margin-top: -300px;
+}
